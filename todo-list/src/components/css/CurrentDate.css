@@ -1,0 +1,7 @@
+.CurrentDate > h1 {
+    color: rgb(37, 147, 255);
+}
+
+.CurrentDate > p {
+    font-weight: bolder;
+}
